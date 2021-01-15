@@ -1,42 +1,42 @@
-from functools import reduce
-
-
-def neighbours(pos):
-    value = grid[pos[1]][pos[0]]
-    neighbours_list = []
-    for factor in list(factors[value - 1]):
-        if 0 <= factor - 1 < n and 0 <= (value // factor) - 1 < m:
-            neighbours_list.append([factor - 1, value // factor - 1])
-    return neighbours_list
+import sys
+import collections
 
 
 def index(pos):
-    return pos[1] * m + pos[0]
+    return pos[1] * n + pos[0]
 
 
-m = int(input())
-n = int(input())
+m = int(sys.stdin.readline())
+n = int(sys.stdin.readline())
 grid = []
 max_int = -1
 for i in range(m):
-    line = input()
+    line = sys.stdin.readline().split(" ")
     arr = []
     for j in range(n):
-        arr.append(int(line.split(" ")[j]))
-        max_int = max(max_int, int(line.split(" ")[j]))
+        cur_num = int(line[j])
+        arr.append(cur_num)
+        max_int = max(max_int, cur_num)
     grid.append(arr)
 
-factors = [set(reduce(list.__add__, ([x, value // x] for x in range(1, int(value ** 0.5) + 1) if value % x == 0))) for
-           value in range(1, max_int + 1)]
+adj_list = [[] for _ in range(max_int)]
+for i in range(1, max_int + 1):
+    for j in range(i, max_int + 1, i):
+        if 0 < i <= n and 0 < j // i <= m:
+            adj_list[j - 1].append((i - 1, j // i - 1))
+
 
 visited = [False for i in range(m * n)]
-queue = [[0, 0]]
+visited[index((0, 0))] = True
+queue = collections.deque()
+queue.append((0, 0))
 escape = False
 while len(queue) > 0:
-    v = queue.pop(0)
-    if v == [n - 1, m - 1]:
+    v = queue.popleft()
+    ver_value = grid[v[1]][v[0]]
+    if v == (n - 1, m - 1):
         escape = True
-    for neighbour in neighbours(v):
+    for neighbour in adj_list[ver_value - 1]:
         if not visited[index(neighbour)]:
             visited[index(neighbour)] = True
             queue.append(neighbour)
