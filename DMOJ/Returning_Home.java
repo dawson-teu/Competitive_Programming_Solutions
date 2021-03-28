@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Returning_Home {
+public class P4_Returning_Home {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 
@@ -11,11 +11,10 @@ public class Returning_Home {
         for (int i = 0; i < n; i++) {
             strings[i] = readLine();
         }
-        int[] palindromesA = new int[m];
-        int[] palindromesB = new int[m];
+
+        boolean[][] queries = new boolean[s_len][s_len];
         for (int i = 0; i < m; i++) {
-            palindromesA[i] = readInt();
-            palindromesB[i] = readInt();
+            queries[readInt() - 1][readInt() - 1] = true;
         }
 
         int count = 0;
@@ -35,10 +34,14 @@ public class Returning_Home {
             }
 
             boolean satisfies_all = true;
-            for (int j = 0; j < m; j++) {
-                int a = palindromesA[j], b = palindromesB[j];
-                if (!is_palindrome[a][b]) {
-                    satisfies_all = false;
+            for (int j = 0; j < s_len; j++) {
+                for (int k = 0; k < s_len; k++) {
+                    if (queries[j][k] && !is_palindrome[j + 1][k + 1]) {
+                        satisfies_all = false;
+                        break;
+                    }
+                }
+                if (!satisfies_all) {
                     break;
                 }
             }
