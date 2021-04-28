@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P5_Attraction {
+public class Attraction {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Question1 {
+class S2_Poetry {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();

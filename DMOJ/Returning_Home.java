@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P4_Returning_Home {
+public class Returning_Home {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

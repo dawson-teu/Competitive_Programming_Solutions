@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AKnightlyPursuit {
+public class S4_A_Knightly_Pursuit {
     static int[][] board;
     static int r, c, pr, pc, kr, kc;
 

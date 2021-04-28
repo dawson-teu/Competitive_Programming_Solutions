@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class SpiesLikeUs {
+public class P3_Spies_Like_Us {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();

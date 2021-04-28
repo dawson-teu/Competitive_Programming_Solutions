@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Collections;
 
-class Question1 {
+class S2_Tandem_Bicycle {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int type = input.nextInt();

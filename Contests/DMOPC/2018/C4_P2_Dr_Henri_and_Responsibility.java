@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P3_Dr_Henri_and_Responsibility {
+public class C4_P2_Dr_Henri_and_Responsibility {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

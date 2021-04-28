@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P1_Net_Weight {
+public class C3_J2_Net_Weight {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

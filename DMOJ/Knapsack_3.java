@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P8_Knapsack_3 {
+public class Knapsack_3 {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

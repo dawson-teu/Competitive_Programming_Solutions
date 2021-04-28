@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P3_Cowntagion {
+public class Dec_S1_Cowntagion {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

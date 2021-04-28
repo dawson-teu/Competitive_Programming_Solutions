@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P6_Stuck_in_a_Rut {
+public class Dec_S3_Stuck_in_a_Rut {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

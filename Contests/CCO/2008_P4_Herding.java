@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Herding {
+public class P4_Herding {
     static int[][] trapPos;
     static String[][] city;
     static int n, m;

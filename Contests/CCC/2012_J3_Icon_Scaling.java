@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Question1 {
+class J3_Icon_Scaling {
     public static void main(String[] args) {
         String[][] icon = {{"*", "x", "*"}, {" ", "x", "x"}, {"*", " ", "*"}};
 

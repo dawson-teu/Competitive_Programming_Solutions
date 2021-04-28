@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ChooseYourOwnPath {
+public class J5_Choose_your_own_path {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();

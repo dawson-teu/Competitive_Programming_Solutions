@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P6_Keep_on_Truckin {
+public class J5_Keep_on_Truckin {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

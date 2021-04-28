@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P5_Dance_Mooves {
+public class Jan_S1_Dance_Mooves {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

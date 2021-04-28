@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P4_Migrant_Mascot {
+public class C4_P5_Migrant_Mascot {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

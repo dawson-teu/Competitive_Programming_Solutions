@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class FunInForag {
+public class Fun_in_Forag {
     static int a, b, n;
     static long c;
     static List<List<Edge>> adjList;

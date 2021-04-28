@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class LivestockLineup {
+public class Dec_B3_Livestock_Lineup {
     static String[] cows;
 
     public static void main(String[] args) {

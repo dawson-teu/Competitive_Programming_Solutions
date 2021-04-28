@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P7_Spaced_Out {
+public class Jan_S3_Spaced_Out {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

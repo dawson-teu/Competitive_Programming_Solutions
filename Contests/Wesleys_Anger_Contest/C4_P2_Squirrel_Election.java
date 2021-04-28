@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P3_Squirrel_Election {
+public class C4_P2_Squirrel_Election {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

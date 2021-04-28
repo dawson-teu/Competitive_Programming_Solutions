@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CaptchaFun {
+public class P3_Captcha_Fun {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int t = input.nextInt();

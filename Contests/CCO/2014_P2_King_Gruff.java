@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P8_King_Gruff {
+public class P2_King_Gruff {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

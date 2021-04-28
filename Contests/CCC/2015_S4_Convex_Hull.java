@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ConvexHull {
+public class S4_Convex_Hull {
     static int n, k;
     static List<List<Edge>> adjList;
 

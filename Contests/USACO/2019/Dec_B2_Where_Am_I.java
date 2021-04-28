@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class WhereAmI {
+public class Dec_B2_Where_Am_I {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();

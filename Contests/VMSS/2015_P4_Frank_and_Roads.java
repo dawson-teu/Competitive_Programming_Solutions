@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P6_Frank_and_Roads {
+public class P4_Frank_and_Roads {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

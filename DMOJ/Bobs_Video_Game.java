@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P3_Bobs_Video_Game {
+public class Bobs_Video_Game {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

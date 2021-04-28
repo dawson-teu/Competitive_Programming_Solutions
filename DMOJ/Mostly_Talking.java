@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class MostlyTalking {
+public class Mostly_Talking {
     static int n;
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;

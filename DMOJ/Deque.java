@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P4_Deque {
+public class Deque {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

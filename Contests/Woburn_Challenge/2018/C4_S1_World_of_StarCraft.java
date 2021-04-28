@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P2_World_of_StarCraft {
+public class C4_S1_World_of_StarCraft {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P1_Do_You_Know_Your_ABCs {
+public class Dec_B1_Do_You_Know_Your_ABCs {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

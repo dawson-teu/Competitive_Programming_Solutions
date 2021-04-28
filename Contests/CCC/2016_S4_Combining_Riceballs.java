@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P8_Combining_Riceballs {
+public class S4_Combining_Riceballs {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

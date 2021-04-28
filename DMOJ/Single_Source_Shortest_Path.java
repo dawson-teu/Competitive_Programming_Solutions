@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class SingleSourceShortestPath {
+public class Single_Source_Shortest_Path {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

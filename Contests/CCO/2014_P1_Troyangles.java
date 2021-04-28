@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P6_Troyangles {
+public class P1_Troyangles {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

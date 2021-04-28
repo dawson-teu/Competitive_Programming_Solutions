@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class CherryTree {
+public class Cherry_Tree {
     static int n, c, k;
     static List<List<Edge>> adjList;
     static int[] numCherry;

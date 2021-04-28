@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P5_Hitchhiking_Fun {
+public class C1_P3_Hitchhiking_Fun {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

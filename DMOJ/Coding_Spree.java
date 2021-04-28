@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P1_Coding_Spree {
+public class Coding_Spree {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

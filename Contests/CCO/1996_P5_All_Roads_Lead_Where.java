@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class AllRoadsLeadWhere {
+public class P5_All_Roads_Lead_Where {
     static Map<String, List<String>> adjList;
 
     public static void main(String[] args) {

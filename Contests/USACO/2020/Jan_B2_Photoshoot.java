@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Photoshoot {
+public class Jan_B2_Photoshoot {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();

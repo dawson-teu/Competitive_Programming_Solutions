@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P5_Longest_Path {
+public class Longest_Path {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

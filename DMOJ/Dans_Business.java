@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P6_Dans_Business {
+public class Dans_Business {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

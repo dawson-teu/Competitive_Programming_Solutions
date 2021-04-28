@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TheHungaryGames {
+public class P2_The_Hungary_Games {
     static int n;
 
     public static void main(String[] args) {

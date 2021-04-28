@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P3_Mynerva {
+public class Mynerva {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Palindrome {
+public class P1_Palindrome {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

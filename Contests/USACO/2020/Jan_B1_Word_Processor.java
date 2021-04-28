@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class WordProcessor {
+public class Jan_B1_Word_Processor {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt(), k = input.nextInt();

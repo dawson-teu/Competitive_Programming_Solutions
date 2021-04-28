@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P4_Just_Stalling {
+public class Jan_B3_Just_Stalling {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

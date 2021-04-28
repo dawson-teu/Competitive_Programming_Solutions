@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P2_Conditional_Contracts {
+public class Finals_J1_Conditional_Contracts {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

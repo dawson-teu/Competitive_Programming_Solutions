@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P1_Balancing_Act {
+public class R5_N3_Balancing_Act {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P8_Counterattack {
+public class C4_P3_Counterattack {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

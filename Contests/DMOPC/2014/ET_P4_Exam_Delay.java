@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ExamDelay {
+public class ET_P4_Exam_Delay {
     static List<List<Edge>> adjList;
     static double[] dist;
     static int[] parent;

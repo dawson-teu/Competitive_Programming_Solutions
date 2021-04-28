@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Question1 {
+class S3_Degrees_Of_Separation {
     static final Map<Integer, List<Integer>> friends = new HashMap<>();
 
     public static void main(String[] args) {

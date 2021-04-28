@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P2_Vacation {
+public class Vacation {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

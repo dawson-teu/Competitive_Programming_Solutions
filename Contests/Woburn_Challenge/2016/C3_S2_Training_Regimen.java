@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P4_Training_Regimen {
+public class C3_S2_Training_Regimen {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P7_Pick_It {
+public class Pick_It {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

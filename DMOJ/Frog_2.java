@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Frog2 {
+public class Frog_2 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();

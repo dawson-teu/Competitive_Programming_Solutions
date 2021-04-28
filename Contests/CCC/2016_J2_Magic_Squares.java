@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.List;
 import java.util.ArrayList;
 
-class Problem3_Magic_Squares {
+class J2_Magic_Squares {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int[][] square = new int[4][4];

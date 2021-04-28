@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Question2 {
+class J3_Rovarspraket {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         String s = input.nextLine();
