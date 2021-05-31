@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P7_Artskjid {
+public class P2_Artskjid {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

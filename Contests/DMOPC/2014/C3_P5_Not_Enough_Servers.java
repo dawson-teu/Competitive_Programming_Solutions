@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P8_Not_Enough_Servers {
+public class C3_P5_Not_Enough_Servers {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P4_Beautiful_Water_Pearl {
+public class Beautiful_Water_Pearl {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

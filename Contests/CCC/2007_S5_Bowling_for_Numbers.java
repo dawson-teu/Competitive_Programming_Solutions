@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P7_Bowling_for_Numbers {
+public class S5_Bowling_for_Numbers {
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

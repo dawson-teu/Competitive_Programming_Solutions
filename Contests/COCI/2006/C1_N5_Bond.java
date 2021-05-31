@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P5_Bond {
+public class C1_N5_Bond {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 

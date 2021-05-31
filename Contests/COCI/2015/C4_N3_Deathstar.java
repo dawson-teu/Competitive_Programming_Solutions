@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class P3_Deathstar {
+public class C4_N3_Deathstar {
     static final BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
 
