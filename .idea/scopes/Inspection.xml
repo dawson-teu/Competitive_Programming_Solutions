@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Inspection" pattern="file[Competitive_Programming_Solutions]:*/&amp;&amp;!file[Competitive_Programming_Solutions]:.idea//*&amp;&amp;!file:LICENSE&amp;&amp;!file:Python_Template.py&amp;&amp;!file:README.md&amp;&amp;!file:Project_Euler/recovery_key.txt&amp;&amp;!file[Competitive_Programming_Solutions]:Advent_of_Code/2019/InputFiles//*&amp;&amp;!file[Competitive_Programming_Solutions]:Advent_of_Code/2021/InputFiles//*" />
+</component>

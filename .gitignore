@@ -1,4 +1,5 @@
-/.idea
+/.idea/*
+!/.idea/scopes
 /venv
 .vscode
 **/__pycache__/**
