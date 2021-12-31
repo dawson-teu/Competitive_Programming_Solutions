@@ -1,5 +1,6 @@
 /.idea/*
 !/.idea/scopes
+!/.idea/dictionaries
 /venv
 .vscode
 **/__pycache__/**
