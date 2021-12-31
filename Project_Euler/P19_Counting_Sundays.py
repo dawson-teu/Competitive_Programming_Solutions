@@ -1,4 +1,4 @@
-total = 2  # January 1, 1901 is a Tuesday
+total = 2  # January 1, 1901, is a Tuesday
 count = 0
 months = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
 for i in range(1901, 2001):

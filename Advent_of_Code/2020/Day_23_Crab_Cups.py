@@ -41,7 +41,7 @@ class Node:
 def simulate_moves(cups_input, n):
     cups_in = LinkedList.from_array(cups_input)
 
-    # this creates an lookup dict mapping the cup labels to the cup nodes
+    # this creates a lookup dict mapping the cup labels to the cup nodes
     # this table will update itself so no manual updating is needed
     # this is because in the loop, the same nodes are just being attached and detached
     cups_index = cups_in.find_index_dict()
