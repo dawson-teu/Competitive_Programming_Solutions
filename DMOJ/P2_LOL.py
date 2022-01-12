@@ -11,4 +11,3 @@ for i in range(n):
     min_max_x[1] = max(min_max_x[1], x)
     min_max_y[1] = max(min_max_y[1], y)
 print((min_max_x[1] - min_max_x[0]) * (min_max_y[1] - min_max_y[0]))
-
